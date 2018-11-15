@@ -305,6 +305,17 @@ export default {
                     บริษัท โมบาย คอนเน็ค จำกัด เป็นผู้ให้บริการ Mobile Marketing & CRM แบบครบวงจร ด้วยทีมงานที่มีความ
                     เชี่ยวชาญ และ มีประสบการณ์ให้บริการแก่องค์กรชั้นนำต่าง ๆ ทั้งในประเทศไทย และต่างประเทศ การันตีจากประสบการณ์ 18 ปี
                   </v-card-text>
+                  <v-list-tile>
+                    <v-list-tile-action >
+                      <v-flex row>
+                        <img src="https://img.icons8.com/material/50/6FC2F4/email.png">
+                        <img src="https://img.icons8.com/material/50/6FC2F4/facebook-f.png">
+                        <img src="https://img.icons8.com/material/50/6FC2F4/twitter-squared.png">
+                      </v-flex>
+
+                    </v-list-tile-action>
+                  </v-list-tile>
+
                 </v-card>
               </v-flex>
               <v-flex
