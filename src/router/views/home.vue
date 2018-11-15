@@ -305,12 +305,19 @@ export default {
                     บริษัท โมบาย คอนเน็ค จำกัด เป็นผู้ให้บริการ Mobile Marketing & CRM แบบครบวงจร ด้วยทีมงานที่มีความ
                     เชี่ยวชาญ และ มีประสบการณ์ให้บริการแก่องค์กรชั้นนำต่าง ๆ ทั้งในประเทศไทย และต่างประเทศ การันตีจากประสบการณ์ 18 ปี
                   </v-card-text>
-                  <v-list-tile>
+                  <br>
+                  <v-list-tile class="layout justify-center">
                     <v-list-tile-action >
                       <v-flex row>
-                        <img src="https://img.icons8.com/material/50/6FC2F4/email.png">
+                      <a href="https://www.facebook.com/MC.MobileConnect/" >
                         <img src="https://img.icons8.com/material/50/6FC2F4/facebook-f.png">
+                      </a>  &nbsp;
+                      <a href="http://line.me/R/ti/p/%40mobileconnect">
+                        <img src="https://img.icons8.com/material/50/6FC2F4/email.png">
+                      </a>&nbsp;
+                      <a href="http://mobileconnect.co.th/#">
                         <img src="https://img.icons8.com/material/50/6FC2F4/twitter-squared.png">
+                      </a>
                       </v-flex>
 
                     </v-list-tile-action>
